@@ -13,3 +13,6 @@ First we need to follow these steps to start an app.
 5) then run this command to start the project ('cmd', 'node app.js')
     i) app.js is the main file to start the application and create a scheme named 'accounts'
 6) Now Application is start you can perform cruds operation. (Adding postman collection also OXINUS.postman_collection)
+
+
+If you want to create database locally you can use also ```database.sql``` file.
